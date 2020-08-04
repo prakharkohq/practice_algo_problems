@@ -1,4 +1,4 @@
-package walmart;
+package Miscllaneous;
 
 import java.util.Iterator;
 import java.util.LinkedList;

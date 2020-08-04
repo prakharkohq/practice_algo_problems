@@ -1,4 +1,4 @@
-package walmart;
+package Miscllaneous;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;

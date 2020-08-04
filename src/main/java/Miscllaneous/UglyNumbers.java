@@ -1,4 +1,4 @@
-package walmart;
+package Miscllaneous;
 
 import java.util.ArrayList;
 import java.util.List;

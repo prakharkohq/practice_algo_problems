@@ -1,4 +1,4 @@
-package GoldmanSachs;
+package Random;
 
 import java.util.Arrays;
 

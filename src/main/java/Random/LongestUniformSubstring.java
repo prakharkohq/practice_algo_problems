@@ -1,4 +1,4 @@
-package GoldmanSachs;
+package Random;
 
 public class LongestUniformSubstring {
     public static void main(String[] args) {

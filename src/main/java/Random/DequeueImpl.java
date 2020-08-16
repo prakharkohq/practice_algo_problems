@@ -1,4 +1,4 @@
-package GoldmanSachs;
+package Random;
 import java.util.*;
 public class DequeueImpl {
     public static void main(String[] args) {
